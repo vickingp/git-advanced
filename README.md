@@ -2,4 +2,3 @@
 
 * Shakespeare
 * Poe
-* Things get real...
